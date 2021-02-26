@@ -156,7 +156,10 @@ h5{
     
 }
 
-
+.contenedor_general .side_bar h5{
+    color: rgba(29, 27, 27, 0.74);
+    text-align: center;
+}
 
 
 
@@ -175,10 +178,7 @@ h5{
         "widget3 widget3 widget4 widget4"
         "pie_pagina pie_pagina pie_pagina pie_pagina";
     }
-    .contenedor_general .contenido_23
-    {
-        padding-top: 60% ;
-    }
+    
 
     .contenedor_general .widget1,
     .contenedor_general .widget2,
